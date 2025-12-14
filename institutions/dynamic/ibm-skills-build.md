@@ -1,4 +1,4 @@
-# 🎓 IBM
+# 🎓 IBM SkillsBuild
 
 ## 📊 Summary
 IBM provides extensive free data science and AI training through its IBM SkillsBuild and collaboration with platforms like Coursera and edX. Its offerings are structured around professional certificates and focus on open-source tools and IBM Cloud.
@@ -35,4 +35,5 @@ IBM provides extensive free data science and AI training through its IBM SkillsB
   "requires_account": true,
   "link_access": "Portal Search Required",
   "pricing_model": "Free training, paid certificates"
+
 }

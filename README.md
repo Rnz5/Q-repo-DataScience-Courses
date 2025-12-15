@@ -34,7 +34,7 @@ This directory organizes courses based on where they come from and how often the
 
 ####  **`/institutions/stable`**
 Contains courses with **fixed, reliable links** that rarely change. These are perfect for structured learning paths.
-- Each file corresponds to one institution (`google.md`, `university-helsinki.md`)
+- Each file corresponds to one institution (`google.md`, `university-michigan.md`)
 - Contains a complete, manually verified list of that institution's AI/ML courses
 - All links are expected to remain valid long-term
 
@@ -42,7 +42,7 @@ Contains courses with **fixed, reliable links** that rarely change. These are pe
 Contains portals to institutions with **large, frequently updated** course catalogs where maintaining individual links is impractical.
 - Each file is a portal to an institution's main course directory (`udacity.md`)
 - Provides search strategies and keywords to find relevant courses
-- Examples: Udacity, Microsoft Learn, Deeplearning.ai
+- Examples: Udacity, Microsoft Learn
 
 ### 2. 📂 `/categories` – Courses by Topic
 Organizes all courses by Data Science subject matter.

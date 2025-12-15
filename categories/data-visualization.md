@@ -38,7 +38,7 @@ Institutions with frequently updated catalogs. Access the portal and use recomme
 | **edX** | Visualization Theory & Tools | `"Data Visualization"`, `"Visual Analytics"`, `"Dashboard Design"` | [🔗 Portal](/institutions/dynamic/edx.md) |
 | **Microsoft Learn** | Power BI & Data Visualization | `"Power BI"`, `"Data Visualization"`, `"Business Intelligence"` | [🔗 Portal](/institutions/dynamic/microsoft-learn.md) |
 | **Salesforce** | Tableau Training & Visualization | `"Tableau"`, `"Data Visualization"`, `"Analytics"` | [🔗 Portal](/institutions/dynamic/salesforce.md) |
-| **Google Cloud Skills Boost** | Data Studio & Visualization | `"Data Visualization"`, `"Looker Studio"`, `"Dashboard"` | [🔗 Portal](/institutions/dynamic/google-cloud-skills-boost.md) |
+| **Google Cloud Skills Boost** | Data Studio & Visualization | `"Data Visualization"`, `"Looker Studio"`, `"Dashboard"` | [🔗 Portal](/institutions/dynamic/google-cloud-skills.md) |
 | **Udacity** | Project-based Dashboard & Interactive Viz Creation | `"Data Visualization", "Dashboard", "Interactive Visualization"` | [🔗 Portal](/institutions/dynamic/udacity.md) |
 | **CodeSignal** | Algorithmic Implementation for Viz Logic | `"Problem Solving", "Algorithms", "Programming Logic"` | [🔗 Portal](/institutions/dynamic/codesignal.md) |
 | **IBM** | Cognos Analytics & Enterprise Reporting | `"Data Visualization", "Dashboard", "IBM Cognos"` | [🔗 Portal](/institutions/dynamic/ibm.md) |
@@ -55,4 +55,5 @@ Start with Kaggle's Data Visualization course for fundamental charting concepts 
 Progress to comprehensive certifications like freeCodeCamp's Data Visualization, which covers D3.js and complete dashboard projects.
 
 ### **Specialization**
+
 Choose between coding-based visualization (Python/R with DataCamp) or tool-based visualization (Tableau with Salesforce, Power BI with Microsoft).

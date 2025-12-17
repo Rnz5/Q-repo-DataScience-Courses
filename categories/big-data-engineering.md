@@ -26,9 +26,11 @@ Courses with fixed content, direct links, and defined structure.
 | Google Cloud Training | Google Cloud Big Data and Machine Learning Fundamentals | **Beginner** | 6 hours | Paid | [Link](https://www.skills.google/course_templates/3?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=63470788) |
 | Google | Google Data Analytics Professional Certificate | **Beginner** | 6 months | Paid | [Link](https://www.coursera.org/professional-certificates/google-data-analytics) |
 | Google | Advanced Data Analytics | **Expert** | 6 months | Paid | [Link](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) |
+| HP | Data Science & Analytics | **Beginner** | 1 hour | Free | [Link](https://www.life-global.org/course/344-data-science-and-analytics) |
 | IBM | IBM Data Science Professional Certificate | **Beginner** | 11 months | Paid | [Link](https://www.coursera.org/professional-certificates/ibm-data-science) |
 | UC San Diego | Big Data Specialization | **Advanced** | 7 months | Paid | [Link](https://www.coursera.org/specializations/big-data) |
 | Johns Hopkins University | Executive Data Science | **Expert** | 8 weeks | Paid | [Link](https://www.coursera.org/specializations/executive-data-science) |
+
 
 
 ---
@@ -39,7 +41,7 @@ Institutions with frequently updated catalogs. Access the portal and use recomme
 
 | Institution | Primary Focus | Key Search Terms | Access |
 |-------------|---------------|------------------|--------|
-| **Google Cloud Skills Boost** | Data Engineering on Google Cloud | `"Data Engineering"`, `"BigQuery"`, `"Data Pipeline"` | [🔗 Portal](/institutions/dynamic/google-cloud-skills.md) |
+| **Google Cloud Skills Boost** | Data Engineering on Google Cloud | `"Data Engineering"`, `"BigQuery"`, `"Data Pipeline"` | [🔗 Portal](/institutions/dynamic/google-cloud-skills-boost.md) |
 | **Microsoft Learn** | Azure Data Engineering | `"Data Engineering"`, `"Azure"`, `"Data Factory"` | [🔗 Portal](/institutions/dynamic/microsoft-learn.md) |
 | **Coursera** | Big Data & Engineering Specializations | `"Big Data"`, `"Data Engineering"`, `"Data Pipeline"` | [🔗 Portal](/institutions/dynamic/coursera.md) |
 | **edX** | Distributed Systems & Big Data | `"Big Data"`, `"Distributed Systems"`, `"Data Engineering"` | [🔗 Portal](/institutions/dynamic/edx.md) |
@@ -61,5 +63,4 @@ Start with cloud provider fundamentals: Google Cloud's data engineering path or 
 Progress to comprehensive specializations like UC San Diego's Big Data program, covering Hadoop, Spark, and distributed processing principles.
 
 ### **Specialization**
-
 Choose between specific cloud platforms (Google Cloud, Microsoft Azure), big data technologies (Spark, Hadoop), or data architecture and pipeline design patterns.

@@ -18,10 +18,10 @@ Based on community feedback and our own experience, here are our recommended sta
 | **Beginner** | Google Cloud Big Data and Machine Learning Fundamentals | Google Cloud Training | [Link](/institutions/stable/google-cloud-training.md) |
 | **Intermediate** | Data Analysis with Python Certification | freeCodeCamp | [Link](/institutions/stable/freecodecamp.md) |
 | **Intermediate** | Data Visualization Certification | freeCodeCamp | [Link](/institutions/stable/freecodecamp.md) |
-| **Advanced** | Big Data Specialization | UC San Diego | [Link](/institutions/stable/university-california-san-diego.md) |
-| **Advanced** | Applied Data Science with Python | University of Michigan | [Link](/institutions/stable/university-michigan.md) |
-| **Expert** | Executive Data Science | Johns Hopkins University | [Link](/institutions/stable/university-johns-hopkins.md) |
-| **Expert** | Advanced Data Analytics | Google (Coursera) | [Link](/institutions/stable/google.md) |
+| **Advanced** | CS250: Python for Data Science | Saylor Academy | [Link](/institutions/stable/saylor-academy.md) |
+| **Advanced** | R for Data Science (Book/Learning Path) | Posit (RStudio) | [Link](/institutions/stable/posit.md) |
+| **Expert** | Statistical Learning | Standford University | [Link](/institutions/stable/university-standford.md) |
+| **Expert** | Digital Humanities in Practice: From Research Questions to Results | Harvard University | [Link](/institutions/stable/university-harvard.md) |
 
 ---
 
@@ -34,7 +34,7 @@ This directory organizes courses based on where they come from and how often the
 
 ####  **`/institutions/stable`**
 Contains courses with **fixed, reliable links** that rarely change. These are perfect for structured learning paths.
-- Each file corresponds to one institution (`google.md`, `university-michigan.md`)
+- Each file corresponds to one institution (`google.md`, `university-harvard.md`)
 - Contains a complete, manually verified list of that institution's AI/ML courses
 - All links are expected to remain valid long-term
 
@@ -42,7 +42,7 @@ Contains courses with **fixed, reliable links** that rarely change. These are pe
 Contains portals to institutions with **large, frequently updated** course catalogs where maintaining individual links is impractical.
 - Each file is a portal to an institution's main course directory (`udacity.md`)
 - Provides search strategies and keywords to find relevant courses
-- Examples: Udacity, Microsoft Learn
+- Examples: Udacity, Microsoft Learn, Deeplearning.ai
 
 ### 2. 📂 `/categories` – Courses by Topic
 Organizes all courses by Data Science subject matter.
@@ -68,3 +68,8 @@ This repository is a **community-curated collection** and is provided for inform
 *   **Third-Party Content**: All courses and linked materials are the property of their respective institutions. This repository does not host any content itself; it only provides references, learning paths and links.
 *   **Dynamic Changes**: Links in the `dynamic` institution portals are especially prone to change as platforms update their catalogs.
 *   **User Verification**: We encourage users to verify course details, such as availability, pricing, and requirements, directly on the official provider's website before enrolling to any course.
+
+## Changelog
+| Date | Version | Changes | 
+| :--- | :--- | :--- |
+| 12/26/25 | v1.3 | Coursera related courses have been eliminated due to changes in their policy |

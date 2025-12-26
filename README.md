@@ -72,4 +72,4 @@ This repository is a **community-curated collection** and is provided for inform
 ## Changelog
 | Date | Version | Changes | 
 | :--- | :--- | :--- |
-| 12/26/25 | v1.3 | Coursera related courses have been eliminated due to changes in their policy |
+| 12/26/25 | v1.1 | Coursera related courses have been eliminated due to changes in their policy |

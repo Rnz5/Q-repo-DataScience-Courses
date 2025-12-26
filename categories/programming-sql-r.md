@@ -21,15 +21,12 @@ Courses with fixed content, direct links, and defined structure.
 
 | Institution | Course | Level | Duration | Certificate | Link |
 |-------------|--------|-------|----------|-------------|------|
-| IBM | Data Analysis with Python | **Intermediate** | 5 weeks | Paid | [Link](https://www.coursera.org/learn/data-analysis-with-python) |
-| IBM  | IBM Data Science Professional Certificate | **Beginner** | 11 months | Paid | [Link](https://www.coursera.org/professional-certificates/ibm-data-science) |
 | Kaggle | Intro to SQL | **Beginner** | 3 hours | Free | [Link](https://www.kaggle.com/learn/intro-to-sql) |
 | Kaggle | Advanced SQL | **Advanced** | 3 hours | Free | [Link](https://www.kaggle.com/learn/advanced-sql) |
 | MIT OpenCourseWare | Introduction to Computational Thinking and Data Science | **Advanced** | 15 weeks | None | [Link](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) |
 | Posit (RStudio) | R for Data Science (Book/Learning Path) | **Intermediate** | 4 weeks | None | [Link](https://r4ds.had.co.nz/) |
 | Saylor Academy | Python for Data Science | **Advanced** | 67 hours | Free | [Link](https://learn.saylor.org/course/view.php?id=504) |
 | Harvard University  | Data Science: R Basics | **Beginner** | 8 weeks | Paid | [Link](https://harvardonline.harvard.edu/course/data-science-r-basics) |
-| University of Michigan | Applied Data Science with Python | **Advanced** | 3 months | Paid | [Link](https://www.coursera.org/specializations/data-science-python) |
 
 
 
@@ -41,7 +38,6 @@ Institutions with frequently updated catalogs. Access the portal and use recomme
 
 | Institution | Primary Focus | Key Search Terms | Access |
 |-------------|---------------|------------------|--------|
-| **Coursera** | Interactive Python, R & SQL Courses | `"Python"`, `"R Programming"`, `"SQL"` | [🔗 Portal](/institutions/dynamic/coursera.md) |
 | **DataCamp** | Interactive Coding in Python, R & SQL | `"Python for Data Science"`, `"R Programming"`, `"SQL"` | [🔗 Portal](/institutions/dynamic/datacamp.md) |
 | **edX** | Foundational Programming & Computer Science | `"Python"`, `"R"`, `"SQL"` | [🔗 Portal](/institutions/dynamic/edx.md) |
 | **CodeSignal** | Algorithmic Practice & Coding Skills | `"Python", "SQL", "Algorithms", "Problem Solving"` | [🔗 Portal](/institutions/dynamic/codesignal.md) |

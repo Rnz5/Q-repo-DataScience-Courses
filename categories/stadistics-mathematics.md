@@ -21,11 +21,8 @@ Courses with fixed content, direct links, and defined structure.
 
 | Institution | Course | Level | Duration | Certificate | Link |
 |-------------|--------|-------|----------|-------------|------|
-| IBM  | IBM Data Science Professional Certificate | **Beginner** | 11 months | Paid | [Link](https://www.coursera.org/professional-certificates/ibm-data-science) |
-| Duke University | Statistics with R Specialization | **Intermediate** | 6 months | Paid | [Link](https://www.coursera.org/specializations/statistics) |
-| Harvard University  | Introduction to Probability | **Beginner** | 10 months | Paid | [Link](https://www.edx.org/learn/probability/harvard-university-introduction-to-probability) |
-| University of Michigan   | Statistics with Python Specialization | **Intermediate** | 4 weeks | Paid | [Link](https://www.coursera.org/specializations/statistics-with-python) |
-| Stanford University   | Statistical Learning | **Intermediate** | 25 hours | Paid | [Link](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning-r) |
+| Stanford University | Statistical Learning | **Intermediate** | 25 hours | Paid | [Link](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning-r) |
+| Harvard University | Statistical Learning | **Expert** | 10 weeks | Paid | [Link](https://pll.harvard.edu/course/digital-humanities-practice-research-questions-results) |
 
 ---
 
@@ -35,7 +32,6 @@ Institutions with frequently updated catalogs. Access the portal and use recomme
 
 | Institution | Primary Focus | Key Search Terms | Access |
 |-------------|---------------|------------------|--------|
-| **Coursera** | University-level Statistics & Math | `"Statistics"`, `"Probability"`, `"Mathematics for Data Science"` | [🔗 Portal](/institutions/dynamic/coursera.md) |
 | **edX** | Foundational Math & Statistical Analysis | `"Statistics"`, `"Probability"`, `"Calculus"` | [🔗 Portal](/institutions/dynamic/edx.md) |
 | **DataCamp** | Applied Statistics with Python, R and SQL | `"Statistics"`, `"Probability"`, `"Statistical Thinking"` | [🔗 Portal](/institutions/dynamic/datacamp.md) |
 | **Oracle** | Database & Enterprise-focused Statistics | `"Statistics", "Data Analysis", "Business Intelligence"` | [🔗 Portal](/institutions/stable/oracle.md) |

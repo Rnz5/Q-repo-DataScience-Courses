@@ -24,12 +24,8 @@ Courses with fixed content, direct links, and defined structure.
 | Cisco | Introduction to Data Science | **Beginner** | 6 hours | Free | [Link](https://www.netacad.com/courses/introduction-data-science?courseLang=en-US) |
 | Google Cloud Training | Introduction Data Engineering on Google Cloud | **Intermediate** | 9 hours | Paid | [Link](https://www.skills.google/course_templates/1157?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=63470684) |
 | Google Cloud Training | Google Cloud Big Data and Machine Learning Fundamentals | **Beginner** | 6 hours | Paid | [Link](https://www.skills.google/course_templates/3?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=63470788) |
-| Google | Google Data Analytics Professional Certificate | **Beginner** | 6 months | Paid | [Link](https://www.coursera.org/professional-certificates/google-data-analytics) |
-| Google | Advanced Data Analytics | **Expert** | 6 months | Paid | [Link](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) |
 | HP | Data Science & Analytics | **Beginner** | 1 hour | Free | [Link](https://www.life-global.org/course/344-data-science-and-analytics) |
-| IBM | IBM Data Science Professional Certificate | **Beginner** | 11 months | Paid | [Link](https://www.coursera.org/professional-certificates/ibm-data-science) |
-| UC San Diego | Big Data Specialization | **Advanced** | 7 months | Paid | [Link](https://www.coursera.org/specializations/big-data) |
-| Johns Hopkins University | Executive Data Science | **Expert** | 8 weeks | Paid | [Link](https://www.coursera.org/specializations/executive-data-science) |
+
 
 
 
@@ -43,7 +39,6 @@ Institutions with frequently updated catalogs. Access the portal and use recomme
 |-------------|---------------|------------------|--------|
 | **Google Cloud Skills Boost** | Data Engineering on Google Cloud | `"Data Engineering"`, `"BigQuery"`, `"Data Pipeline"` | [🔗 Portal](/institutions/dynamic/google-cloud-skills-boost.md) |
 | **Microsoft Learn** | Azure Data Engineering | `"Data Engineering"`, `"Azure"`, `"Data Factory"` | [🔗 Portal](/institutions/dynamic/microsoft-learn.md) |
-| **Coursera** | Big Data & Engineering Specializations | `"Big Data"`, `"Data Engineering"`, `"Data Pipeline"` | [🔗 Portal](/institutions/dynamic/coursera.md) |
 | **edX** | Distributed Systems & Big Data | `"Big Data"`, `"Distributed Systems"`, `"Data Engineering"` | [🔗 Portal](/institutions/dynamic/edx.md) |
 | **IBM** | Enterprise Data Engineering | `"Data Engineering"`, `"Big Data"`, `"Data Architecture"` | [🔗 Portal](/institutions/dynamic/ibm.md) |
 | **Oracle** | Cloud Data Management | `"Data Engineering"`, `"Database"`, `"Cloud Data"` | [🔗 Portal](/institutions/dynamic/oracle.md) |
